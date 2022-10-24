@@ -1,0 +1,23 @@
+.a{
+    color: purple;
+}
+.baslık{
+    color:blueviolet;
+    margin-bottom:50px ;
+    margin-top: 50px;
+    
+}
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.food{
+    color:rgb(58, 18, 218);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.vizyonumuz{
+    color: plum;
+}
